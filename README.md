@@ -83,7 +83,7 @@ cd customer-churn-prediction
 ├── churn_model_logistic.pkl      # Trained Logistic Regression model
 ├── requirements.txt              # Required dependencies
 └── README.md                     # Project documentation
-
+```
 🧪 Example Input (via Streamlit UI)
 
 Gender: Female
